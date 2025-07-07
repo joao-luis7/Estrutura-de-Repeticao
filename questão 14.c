@@ -54,6 +54,7 @@ int main()
                         break;
                 }
             }
+            opcao = 1;
         }
         else if (menu != 0) {
             printf("\n>>> OPCAO INVALIDA no menu principal! Tente novamente. <<<\n");
